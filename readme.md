@@ -26,4 +26,4 @@ function applyScaleFactors(image) {
 }
 ```
 ## How to cite
-Aksoy, S., Akçay, H., and Sertel, E. (2024). The Biophysical Engine: A Global Biophysical Processor in the Google Earth Engine & Assessment of Leaf Area Index. IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024.
+S. Aksoy, H. Akcay and E. Sertel, "The Biophysical Engine: A Global Biophysical Processor in the Google Earth Engine & Assessment of Leaf Area Index," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 5200-5203, doi: 10.1109/IGARSS53475.2024.10641262. keywords: {Earth;XML;Land surface;Metadata;Internet;Indexes;Engines;Leaf Area Index (LAI);Google Earth Engine;Sentinel 2;In-situ validation;Biophysical variables},
